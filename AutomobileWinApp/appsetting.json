@@ -1,0 +1,6 @@
+{
+  "ConStrings": {
+    "Default": "server=LAPTOP-PE7D8GSL\\SQLEXPRESS;database=MyStock;user=sa;password=123456;TrustServerCertificate=True"
+  }
+}
+
